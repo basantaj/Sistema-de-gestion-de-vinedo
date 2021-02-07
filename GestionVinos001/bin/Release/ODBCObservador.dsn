@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=IBM INFORMIX ODBC DRIVER
+UID=urusystem_observador
+DLOC=en_US.819
+CLOC=en_US.CP1252
+PRO=olsoctcp
+SERV=1526
+SRVR=ol_taurus
+HOST=192.168.1.154
+DATABASE=urusystem2018

@@ -1,0 +1,320 @@
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\bin\Debug\GestionVinos001.exe
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\bin\Debug\GestionVinos001.pdb
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\bin\Debug\GestionVinos001.xml
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+C:\Users\Ikki\AppData\Local\Temporary Projects\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\bin\Debug\GestionVinos001.exe
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\bin\Debug\GestionVinos001.pdb
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\bin\Debug\GestionVinos001.xml
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormObservadores.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAlerta.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenu.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrativo.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProducto.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProducto.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProducto.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProductos.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaAlmacenamiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaAlmacenamiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionAlmacenamiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaAlmacenamiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaInventario.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaInventario.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionInventario.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaTransporte.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaTransporte.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionTransporte.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaInventario.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaTransporte.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaEstablecimiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaEstablecimiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionEstablecimiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaEstablecimiento.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaReservas.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaReservas.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionReservas.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaReservas.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaClientes.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProceso.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenuActividad.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProceso.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProcesos.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProceso.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadProducto.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadTransporte.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteGeneral.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteSucursal.resources
+C:\Users\Ikki\Documents\Visual Studio 2010\Projects\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001._Pruebita.resources
+C:\Users\KidZero\Desktop\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+C:\Users\KidZero\Desktop\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+C:\Users\KidZero\Desktop\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\bin\Debug\GestionVinos001.exe
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\bin\Debug\GestionVinos001.pdb
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\bin\Debug\GestionVinos001.xml
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadProducto.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadTransporte.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrativo.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAlerta.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaAlmacenamiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaEstablecimiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaInventario.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProceso.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProducto.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaReservas.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaTransporte.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaAlmacenamiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaEstablecimiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaInventario.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProceso.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProducto.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaReservas.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaTransporte.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaAlmacenamiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaClientes.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaEstablecimiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaInventario.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProceso.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProductos.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaReservas.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaTransporte.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteGeneral.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenu.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenuActividad.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteSucursal.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionAlmacenamiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionEstablecimiento.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionInventario.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProcesos.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProducto.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionReservas.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionTransporte.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.FormObservadores.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+C:\Users\Ikki\Desktop\ITI\PROYECTO\GestionVinos001\GestionVinos001_INTERFAZ_MEJORADA_MATIAS\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\bin\Debug\GestionVinos001.exe
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\bin\Debug\GestionVinos001.pdb
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\bin\Debug\GestionVinos001.xml
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadProducto.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadTransporte.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrativo.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAlerta.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaAlmacenamiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaEstablecimiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaInventario.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProceso.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProducto.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaReservas.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaTransporte.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaAlmacenamiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaEstablecimiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaInventario.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProceso.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProducto.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaReservas.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaTransporte.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaAlmacenamiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaClientes.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaEstablecimiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaInventario.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProceso.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProductos.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaReservas.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaTransporte.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteGeneral.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenu.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenuActividad.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteSucursal.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionAlmacenamiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionEstablecimiento.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionInventario.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProcesos.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProducto.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionReservas.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionTransporte.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.FormObservadores.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+I:\aaProyecto\Primer Entrega Urusystem 3BC\GestionVinos001\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+J:\PROG PROY\GestionVinos002\GestionVinos001\bin\Debug\GestionVinos001.exe
+J:\PROG PROY\GestionVinos002\GestionVinos001\bin\Debug\GestionVinos001.pdb
+J:\PROG PROY\GestionVinos002\GestionVinos001\bin\Debug\GestionVinos001.xml
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadProducto.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadTransporte.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrativo.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAlerta.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaAlmacenamiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaEstablecimiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaInventario.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProceso.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProducto.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaReservas.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaTransporte.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaAlmacenamiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaEstablecimiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaInventario.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProceso.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProducto.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaReservas.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaTransporte.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaAlmacenamiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaClientes.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaEstablecimiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaInventario.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProceso.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProductos.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaReservas.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaTransporte.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteGeneral.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenu.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenuActividad.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteSucursal.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionAlmacenamiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionEstablecimiento.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionInventario.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProcesos.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProducto.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionReservas.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionTransporte.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.FormObservadores.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
+J:\PROG PROY\GestionVinos002\GestionVinos001\obj\x86\Debug\GestionVinos001.Resultados.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\bin\Debug\GestionVinos001.exe
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\bin\Debug\GestionVinos001.pdb
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\bin\Debug\GestionVinos001.xml
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadProducto.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadTransporta.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrador.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrativo.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAlerta.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaAlmacenamiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaBotella.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaEstablecimiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaInventario.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaPersonal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProceso.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProducto.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaReservas.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaSucursal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaTransporte.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaAlmacenamiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaBotella.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaEstablecimiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaInventario.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaPersonal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProceso.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProducto.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaReservas.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaSucursal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaTransporte.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaAlmacenamiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaBotella.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaClientes.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaEstablecimiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaInventario.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaPersonal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProceso.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProductos.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaSucursal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaTransporte.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteGeneral.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenu.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteSucursal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionAlmacenamiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionBotella.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionEstablecimiento.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionInventario.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionPersonal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProcesos.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProducto.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionReservas.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionSucursal.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionTransporte.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormObservadores.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.Resultados.resources
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+I:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.exe
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.xml
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.pdb
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\bin\Debug\GestionVinos001.exe
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\bin\Debug\GestionVinos001.pdb
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\bin\Debug\GestionVinos001.xml
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadProducto.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormActividadTransporta.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrador.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAdministrativo.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAlerta.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaAlmacenamiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaBotella.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaEstablecimiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaInventario.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaPersonal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProceso.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaProducto.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaReservas.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaSucursal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormAltaTransporte.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaAlmacenamiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaBotella.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaEstablecimiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaInventario.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaPersonal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProceso.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaProducto.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaReservas.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaSucursal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormBajaTransporte.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaAlmacenamiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaBotella.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaClientes.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaEstablecimiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaInventario.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaPersonal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProceso.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaProductos.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaSucursal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormConsultaTransporte.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteGeneral.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormLogin.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormMenu.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormGerenteSucursal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionAlmacenamiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionBotella.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionEstablecimiento.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionInventario.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionPersonal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProcesos.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionProducto.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionReservas.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionSucursal.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormModificacionTransporte.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.FormObservadores.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.Resources.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.Resultados.resources
+E:\pro\TerceraEntregaAplicacionSISGEVI\Urusystem_SisGeVi_TercerEntrega v2\GestionVinos001\obj\x86\Debug\GestionVinos001.vbproj.GenerateResource.Cache
