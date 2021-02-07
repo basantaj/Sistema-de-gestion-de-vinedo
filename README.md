@@ -18,8 +18,6 @@
 
 ### Notas
 * SGBD: Informix
-* Diseño e implementación de BD: Joaquín Basanta
 * Lenguaje: Visual Basic .NET
-* Código: Joaquín Basanta
 * Originalmente, las imágenes de los productos eran implementadas en la BD en formato BLOB pero una docente dijo que no se hiciera de esa forma.
 * La aplicación fue desarrollada en el correr de un año lectivo como parte de un proyecto académico involucrando múltiples materias.
